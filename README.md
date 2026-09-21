@@ -20,7 +20,7 @@ Energy waste often goes unnoticed because usage is rarely visible. This project 
 - ZMPT101B: voltage sensor
 - ACS712: current sensor
 
-![Hardware Setup](docs/img7.jpg)
+![Hardware Setup](docs/main%20setup.jpg)
 
 ## Software and Tools
 
@@ -52,14 +52,6 @@ Energy waste often goes unnoticed because usage is rarely visible. This project 
 
 ### Cost Analysis
 ![Cost Analysis](docs/img6.jpg)
-
-## Project Structure
-
-Add the folder layout here after upload.
-
-## Future Improvements
-
-Add your planned improvements here.
 
 ## Author
 
