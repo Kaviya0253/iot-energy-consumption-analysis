@@ -32,18 +32,6 @@ Energy waste often goes unnoticed because usage is rarely visible. This project 
 3. Power BI loads the data and shows usage, cost, and appliance patterns.
 4. The dashboard provides insights to help reduce energy costs.
 
-## Screenshots
-
-Add dashboard and circuit images here.
-
-## Project Structure
-
-Add the folder layout here after upload.
-
-## Future Improvements
-
-Add your planned improvements here.
-
 ## Author
 
 Kaviya R ([GitHub](https://github.com/Kaviya0253))
