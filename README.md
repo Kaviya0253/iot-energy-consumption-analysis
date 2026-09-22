@@ -20,7 +20,7 @@ Energy waste often goes unnoticed because usage is rarely visible. This project 
 - ZMPT101B: voltage sensor
 - ACS712: current sensor
 
-![Hardware Setup](docs/main%20setup.jpg)
+![Hardware Setup](Screenshot/main%20setup.jpg)
 
 ## Software and Tools
 
@@ -34,24 +34,24 @@ Energy waste often goes unnoticed because usage is rarely visible. This project 
 3. Power BI loads the data and shows usage, cost, and appliance patterns.
 4. The dashboard provides insights to help reduce energy costs.
 
-![Dashboard Overview](docs/img1.jpg)
+![Dashboard Overview](Screenshot/img1.jpg)
 
 ## Screenshots
 
 ### Energy Patterns
-![Energy Patterns](docs/img2.jpg)
+![Energy Patterns](Screenshot/img2.jpg)
 
 ### Usage by Date and Time
-![Usage by Date and Time](docs/img3.jpg)
+![Usage by Date and Time](Screenshot/img3.jpg)
 
 ### Energy by Date and Time
-![Energy by Date and Time](docs/img4.jpg)
+![Energy by Date and Time](Screenshot/img4.jpg)
 
 ### Usage Time Analysis
-![Usage Time Analysis](docs/img5.jpg)
+![Usage Time Analysis](Screenshot/img5.jpg)
 
 ### Cost Analysis
-![Cost Analysis](docs/img6.jpg)
+![Cost Analysis](Screenshot/img6.jpg)
 
 ## Author
 
