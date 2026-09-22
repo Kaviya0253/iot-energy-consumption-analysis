@@ -20,12 +20,17 @@ Energy waste often goes unnoticed because usage is rarely visible. This project 
 - ZMPT101B: voltage sensor
 - ACS712: current sensor
 
-![Hardware Setup](Screenshot/main%20setup.jpg)
+![Hardware Setup](screenshots/main%20setup.jpg)
 
 ## Software and Tools
 
 - Data storage: CSV and Excel files
 - Visualization: Power BI
+
+## Code
+
+- `Code-energy/FinalCode_excel` — the main sketch: reads both bulbs' voltage (ZMPT101B) and current (ACS712) with moving-average smoothing, then computes RMS voltage/current, power, energy, and cost for each.
+- `Code-energy/Bulb1-60W_excel` / `Code-energy/bulb2-100w_excel` — single-bulb versions used during development and calibration of each sensor's sensitivity.
 
 ## How It Works
 
@@ -34,24 +39,24 @@ Energy waste often goes unnoticed because usage is rarely visible. This project 
 3. Power BI loads the data and shows usage, cost, and appliance patterns.
 4. The dashboard provides insights to help reduce energy costs.
 
-![Dashboard Overview](Screenshot/img1.jpg)
+![Dashboard Overview](screenshots/img1.jpg)
 
 ## Screenshots
 
 ### Energy Patterns
-![Energy Patterns](Screenshot/img2.jpg)
+![Energy Patterns](screenshots/img2.jpg)
 
 ### Usage by Date and Time
-![Usage by Date and Time](Screenshot/img3.jpg)
+![Usage by Date and Time](screenshots/img3.jpg)
 
 ### Energy by Date and Time
-![Energy by Date and Time](Screenshot/img4.jpg)
+![Energy by Date and Time](screenshots/img4.jpg)
 
 ### Usage Time Analysis
-![Usage Time Analysis](Screenshot/img5.jpg)
+![Usage Time Analysis](screenshots/img5.jpg)
 
 ### Cost Analysis
-![Cost Analysis](Screenshot/img6.jpg)
+![Cost Analysis](screenshots/img6.jpg)
 
 ## Author
 
